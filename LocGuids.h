@@ -1,0 +1,11 @@
+#pragma once
+
+// {4DC17023-2D29-4069-A81B-E3D1F2A31CBA}
+DEFINE_GUID(CLSID_TSPUSHFILESOURCE,  0x4dc17023, 0x2d29, 0x4069, 0xa8, 0x1b, 0xe3, 0xd1, 0xf2, 0xa3, 0x1c, 0xba);
+
+
+#define TSPUSHFILESOURCE_NAME       "TS Push File Source"
+#define TSPUSHFILESOURCE_NAMEL      L"TS Push File Source"
+
+#define TSPUSHFILESOURCE_MERIT      MERIT_DO_NOT_USE
+
